@@ -9,3 +9,8 @@ void show()
 {
  cout<<"fetch demo"; 
 }
+
+void input()
+{
+ 
+}
