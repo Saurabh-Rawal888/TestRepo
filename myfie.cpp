@@ -1,4 +1,6 @@
-
+class Data
+{
+}
 void main()
 {
 cout<< "This is CPP";
@@ -9,3 +11,4 @@ void show()
 {
  cout<<"fetch demo"; 
 }
+
